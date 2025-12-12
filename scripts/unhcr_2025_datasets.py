@@ -160,6 +160,9 @@ def main(argv: list[str] | None = None) -> int:
 
     id_lookup = {v.lower(): k for k, v in country_id_map.items()}
 
+    total_countries = records["country"].nunique()
+    total_records = len(records)
+
     lines = []
     for continent, continent_group in records.groupby("continent"):
         lines.append(f"{continent}")
@@ -186,8 +189,8 @@ def main(argv: list[str] | None = None) -> int:
     args.output.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
 
     print(
-        f"Wrote {len(records)} records across "
-        f"{records['country'].nunique()} countries to {args.output}"
+        f"Wrote {total_records} records across "
+        f"{total_countries} countries to {args.output}"
     )
     return 0
 
