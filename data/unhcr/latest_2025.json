@@ -1,0 +1,1235 @@
+[
+  {
+    "id": "1423",
+    "idno": "UNHCR_ZMB_2025_FDS_v2.1",
+    "title": "Forced Displacement Survey, 2025",
+    "nation": "Zambia",
+    "created": "Nov-13-2025",
+    "changed": "Nov-19-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1423"
+  },
+  {
+    "id": "1422",
+    "idno": "UNHCR_MOZ_2019_BAS",
+    "title": "Baseline Survey for Impact Evaluation of the UNHCR Implemented Graduation Program - 2019",
+    "nation": "Mozambique",
+    "created": "Oct-27-2025",
+    "changed": "Nov-10-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1422"
+  },
+  {
+    "id": "1421",
+    "idno": "UNHCR_PAK_2024_FDS_v2.1",
+    "title": "Forced Displacement Survey, 2024",
+    "nation": "Pakistan",
+    "created": "Oct-16-2025",
+    "changed": "Nov-19-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1421"
+  },
+  {
+    "id": "1418",
+    "idno": "UNHCR_NER_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Niger",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1418"
+  },
+  {
+    "id": "1417",
+    "idno": "UNHCR_DJI_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Djibouti",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1417"
+  },
+  {
+    "id": "1416",
+    "idno": "UNHCR_ZWE_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Zimbabwe",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1416"
+  },
+  {
+    "id": "1415",
+    "idno": "UNHCR_NGA_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Nigeria",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1415"
+  },
+  {
+    "id": "1414",
+    "idno": "UNHCR_SYR_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Syrian Arab Republic",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1414"
+  },
+  {
+    "id": "1413",
+    "idno": "UNHCR_PRY_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Paraguay",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1413"
+  },
+  {
+    "id": "1412",
+    "idno": "UNHCR_AGO_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Angola",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1412"
+  },
+  {
+    "id": "1411",
+    "idno": "UNHCR_JOR_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Jordan",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1411"
+  },
+  {
+    "id": "1410",
+    "idno": "UNHCR_GHA_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Ghana",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1410"
+  },
+  {
+    "id": "1409",
+    "idno": "UNHCR_NAM_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Namibia",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1409"
+  },
+  {
+    "id": "1408",
+    "idno": "UNHCR_ARG_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Argentina",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1408"
+  },
+  {
+    "id": "1407",
+    "idno": "UNHCR_MRT_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Mauritania",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1407"
+  },
+  {
+    "id": "1406",
+    "idno": "UNHCR_SSD_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "South Sudan",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1406"
+  },
+  {
+    "id": "1405",
+    "idno": "UNHCR_TCD_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Chad",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1405"
+  },
+  {
+    "id": "1404",
+    "idno": "UNHCR_CHL_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Chile",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1404"
+  },
+  {
+    "id": "1403",
+    "idno": "UNHCR_SOM_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Somalia",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1403"
+  },
+  {
+    "id": "1402",
+    "idno": "UNHCR_CMR_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Cameroon",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1402"
+  },
+  {
+    "id": "1401",
+    "idno": "UNHCR_ALB_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Albania",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1401"
+  },
+  {
+    "id": "1400",
+    "idno": "UNHCR_BFA_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Burkina Faso",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1400"
+  },
+  {
+    "id": "1399",
+    "idno": "UNHCR_GRC_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Greece",
+    "created": "Sep-27-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1399"
+  },
+  {
+    "id": "1396",
+    "idno": "UNHCR_LBN_2024_VASYR_v2.1",
+    "title": "Vulnerability Assessment of Syrian Refugees in Lebanon - 2024",
+    "nation": "Lebanon",
+    "created": "Sep-06-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1396"
+  },
+  {
+    "id": "1395",
+    "idno": "UNHCR_COD_2023_LIS_v2.1",
+    "title": "Livelihoods Programme Monitoring Beneficiary Survey - 2023",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "Sep-04-2025",
+    "changed": "Oct-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1395"
+  },
+  {
+    "id": "1393",
+    "idno": "UNHCR_MDA_2024_SEA",
+    "title": "Socio-Economic Assessment (SEA) - 2024",
+    "nation": "Moldova (the Republic of)",
+    "created": "Aug-26-2025",
+    "changed": "Oct-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1393"
+  },
+  {
+    "id": "1392",
+    "idno": "UNHCR_AFG_2023_PRM",
+    "title": "Post-Return Monitoring Survey - 2023",
+    "nation": "Afghanistan",
+    "created": "Aug-26-2025",
+    "changed": "Sep-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1392"
+  },
+  {
+    "id": "1391",
+    "idno": "UNHCR_PER_2024_RMS_v2.1",
+    "title": "Results Monitoring Survey (RMS) - 2024",
+    "nation": "Peru",
+    "created": "Aug-16-2025",
+    "changed": "Sep-29-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1391"
+  },
+  {
+    "id": "1390",
+    "idno": "HDX_haiti-displacement-idps-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Baseline Assessment, 2023",
+    "nation": "Haiti",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1390"
+  },
+  {
+    "id": "1389",
+    "idno": "HDX_honduras-displacement-idps-hurricane-eta-and-iota-response-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Site Assessment -  Hurricane ETA and IOTA, 2020",
+    "nation": "Honduras",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1389"
+  },
+  {
+    "id": "1388",
+    "idno": "HDX_informe-de-caracterizacion-del-desplazamiento-interno-en-honduras_vEXT",
+    "title": "Informe de Caracterizaci\u00f3n del Desplazamiento Interno, 2014",
+    "nation": "Honduras",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1388"
+  },
+  {
+    "id": "1387",
+    "idno": "HDX_cccm-idp-camp-profiling-vii_vEXT",
+    "title": "Internally Displaced Persons Camp Profiling VII, 2017",
+    "nation": "Iraq",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1387"
+  },
+  {
+    "id": "1386",
+    "idno": "HDX_kenya-displacement-idps-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Site Assessment, 2021",
+    "nation": "Kenya",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1386"
+  },
+  {
+    "id": "1385",
+    "idno": "HDX_malawi-displacement-data-site-assessment-cyclone-freddy-iom-dtm_vEXT",
+    "title": "Displacement Site Assessment - Cyclone Freddy, 2023",
+    "nation": "Malawi",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1385"
+  },
+  {
+    "id": "1384",
+    "idno": "HDX_malawi-flood-response-site-assessment-round-1_vEXT",
+    "title": "Flood Response Round 1 - Site assessment, 2015",
+    "nation": "Malawi",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1384"
+  },
+  {
+    "id": "1383",
+    "idno": "HDX_mauritania-displacement-data-migrants-baseline-assessment-nouakchott-iom-dtm_vEXT",
+    "title": "Displacement Baseline Assessment - Nouakchott, 2019",
+    "nation": "Mauritania",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1383"
+  },
+  {
+    "id": "1382",
+    "idno": "HDX_mozambique-displacement-data-site-assessment-idai-iom-dtm_vEXT",
+    "title": "Displacement Site Assessment - Idai, 2021",
+    "nation": "Mozambique",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1382"
+  },
+  {
+    "id": "1381",
+    "idno": "HDX_north-west-syria-inter-sector-rapid-needs-assessment-flood-impact-january-2019_vEXT",
+    "title": "Inter-Sector Rapid Needs Assessment - Flood Impact January 2019",
+    "nation": "Syrian Arab Republic",
+    "created": "Aug-14-2025",
+    "changed": "Aug-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1381"
+  },
+  {
+    "id": "1360",
+    "idno": "UNHCR_ECU_2022_RMS_v2.1",
+    "title": "Results Monitoring Survey (RMS) - 2022",
+    "nation": "Ecuador",
+    "created": "Aug-13-2025",
+    "changed": "Sep-29-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1360"
+  },
+  {
+    "id": "1359",
+    "idno": "UNHCR_ITA_2025_INT",
+    "title": "Socio-Economic Conditions of Refugees and Protection Beneficiaries - 2024",
+    "nation": "Italy",
+    "created": "Aug-12-2025",
+    "changed": "Aug-12-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1359"
+  },
+  {
+    "id": "1358",
+    "idno": "UNHCR_AFG_2024_PRM_2",
+    "title": "Post-Return Monitoring Survey - 2024",
+    "nation": "Afghanistan",
+    "created": "Aug-05-2025",
+    "changed": "Aug-12-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1358"
+  },
+  {
+    "id": "1357",
+    "idno": "UNHCR_DJI_2023_SENS_M",
+    "title": "Standardised Expanded Nutrition Survey (SENS), Markazi Camp - 2023",
+    "nation": "Djibouti",
+    "created": "Jul-30-2025",
+    "changed": "Oct-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1357"
+  },
+  {
+    "id": "1356",
+    "idno": "UNHCR_DJI_2023_SENS_HH",
+    "title": "Standardised Expanded Nutrition Survey (SENS), Holl-Holl Camp - 2023",
+    "nation": "Djibouti",
+    "created": "Jul-30-2025",
+    "changed": "Oct-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1356"
+  },
+  {
+    "id": "1355",
+    "idno": "UNHCR_DJI_2023_SENS_AA",
+    "title": "Standardised Expanded Nutrition Survey (SENS), Ali Addeh Camp - 2023",
+    "nation": "Djibouti",
+    "created": "Jul-28-2025",
+    "changed": "Oct-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1355"
+  },
+  {
+    "id": "1354",
+    "idno": "UNHCR_BGD_CXB_2024_SENS",
+    "title": "Standardised Expanded Nutrition Survey (SENS) - 2024",
+    "nation": "Bangladesh",
+    "created": "Jul-28-2025",
+    "changed": "Aug-12-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1354"
+  },
+  {
+    "id": "1353",
+    "idno": "UNHCR_UGA_RMS_2024_CATI",
+    "title": "Results Monitoring Survey (RMS), CATI - 2024",
+    "nation": "Uganda",
+    "created": "Jul-24-2025",
+    "changed": "Oct-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1353"
+  },
+  {
+    "id": "1352",
+    "idno": "UNHCR_UGA_RMS_2024",
+    "title": "Results Monitoring Survey (RMS), CAPI - 2024",
+    "nation": "Uganda",
+    "created": "Jul-16-2025",
+    "changed": "Oct-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1352"
+  },
+  {
+    "id": "1351",
+    "idno": "UNHCR_AFG_2024_CBPM",
+    "title": "Community-Based Protection Monitoring - 2024",
+    "nation": "Afghanistan",
+    "created": "Jun-26-2025",
+    "changed": "Jun-26-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1351"
+  },
+  {
+    "id": "1350",
+    "idno": "UNHCR_ETH_2023_AM_SENS",
+    "title": "Standardised Expanded Nutrition Survey (SENS) - 2023",
+    "nation": "Ethiopia",
+    "created": "Jun-23-2025",
+    "changed": "Jun-26-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1350"
+  },
+  {
+    "id": "1349",
+    "idno": "UNHCR_MEX_2024_PM_H2_v2.1",
+    "title": "Protection Monitoring 2024, H2",
+    "nation": "Mexico",
+    "created": "Jun-18-2025",
+    "changed": "Jun-18-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1349"
+  },
+  {
+    "id": "1348",
+    "idno": "UNHCR_RBA_2025_MMM_Q1_v2.1",
+    "title": "Regional Mixed Movements Monitoring, 2025 Q1",
+    "nation": "Chile, Costa Rica, Mexico...and 3 more",
+    "created": "Jun-18-2025",
+    "changed": "Jun-18-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1348"
+  },
+  {
+    "id": "1347",
+    "idno": "UNHCR_RBA_2024_MMM_Q4_v2.1",
+    "title": "Regional Mixed Movements Monitoring, 2024 Q4",
+    "nation": "Chile, Costa Rica, Mexico...and 3 more",
+    "created": "Jun-18-2025",
+    "changed": "Jun-18-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1347"
+  },
+  {
+    "id": "1346",
+    "idno": "UNHCR_JOR_2024_FIFH_v2.1",
+    "title": "Refugee Financial Inclusion and Financial Health, Baseline Survey - 2024",
+    "nation": "Jordan",
+    "created": "Jun-17-2025",
+    "changed": "Jun-17-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1346"
+  },
+  {
+    "id": "1345",
+    "idno": "UNHCR_JOR_2024_CBI_v2.1",
+    "title": "Basic Needs Cash Assistance Programme Annual Assessment, 2024",
+    "nation": "Jordan",
+    "created": "Jun-17-2025",
+    "changed": "Jun-17-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1345"
+  },
+  {
+    "id": "1344",
+    "idno": "UNHCR_COL_2024_HFS_Q4_v2.1",
+    "title": "High Frequency Survey - Q4 2024",
+    "nation": "Colombia",
+    "created": "Jun-17-2025",
+    "changed": "Jun-17-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1344"
+  },
+  {
+    "id": "1343",
+    "idno": "UNHCR_LBN_2023_VASYR_v2.1",
+    "title": "Vulnerability Assessment of Syrian Refugees in Lebanon, 2023",
+    "nation": "Lebanon",
+    "created": "Jun-17-2025",
+    "changed": "Jun-17-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1343"
+  },
+  {
+    "id": "1342",
+    "idno": "UNHCR_EU_2025_INT",
+    "title": "Intentions Survey with Syrian Refugees and Asylum-Seekers in Europe - 2025",
+    "nation": "Austria, Cyprus, Germany...and 2 more",
+    "created": "Jun-16-2025",
+    "changed": "Jul-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1342"
+  },
+  {
+    "id": "1341",
+    "idno": "UNHCR_BGD_BHC_2024_SENS",
+    "title": "Standardized Expanded Nutrition Survey (SENS) - 2024",
+    "nation": "Bangladesh",
+    "created": "Jun-11-2025",
+    "changed": "Jun-23-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1341"
+  },
+  {
+    "id": "1340",
+    "idno": "UNHCR_ETH_2024_SENS",
+    "title": "Standardized Expanded Nutrition Survey (SENS) - 2024",
+    "nation": "Ethiopia",
+    "created": "Jun-03-2025",
+    "changed": "Jun-23-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1340"
+  },
+  {
+    "id": "1339",
+    "idno": "HDX_dtm-dominica-round-3_vEXT",
+    "title": "Displacement Tracking, Hurricane Maria Response - 2017",
+    "nation": "Dominica",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1339"
+  },
+  {
+    "id": "1338",
+    "idno": "HDX_guatemala-displacement-idps-hurricane-eta-and-iota-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Hurricane Eta and Iota, Site Assessment - 2020",
+    "nation": "Guatemala",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1338"
+  },
+  {
+    "id": "1337",
+    "idno": "HDX_ethiopia-displacement-northern-region-tigray-idps-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Site Assessment, Tigray - 2023",
+    "nation": "Ethiopia",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1337"
+  },
+  {
+    "id": "1336",
+    "idno": "HDX_ethiopia-baseline-assessment-data-iom-dtm_vEXT",
+    "title": "Displacement Data, Site Assessment - 2023",
+    "nation": "Ethiopia",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1336"
+  },
+  {
+    "id": "1335",
+    "idno": "HDX_el-salvador-displacement-data-idps-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Site Assessment - 2020",
+    "nation": "El Salvador",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1335"
+  },
+  {
+    "id": "1334",
+    "idno": "HDX_dominica-site-assessment-data-iom-dtm_vEXT",
+    "title": "Displacement Data, Site Assessment - 2018",
+    "nation": "Dominica",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1334"
+  },
+  {
+    "id": "1333",
+    "idno": "HDX_drc-displacement-data-tanganyika-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Tanganyika Province, Baseline Assessment - 2022",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1333"
+  },
+  {
+    "id": "1332",
+    "idno": "HDX_drc-displacement-data-south-kivu-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, South Kivu Province, Baseline Assessment - 2023",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1332"
+  },
+  {
+    "id": "1331",
+    "idno": "HDX_drc-displacement-data-sankuru-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Sankuru Province, Baseline Assessment - 2018",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1331"
+  },
+  {
+    "id": "1330",
+    "idno": "HDX_drc-displacement-data-north-kivu-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, North Kivu Province, Baseline Assessment - 2023",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1330"
+  },
+  {
+    "id": "1329",
+    "idno": "HDX_drc-displacement-data-lomami-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Lomami Province, Baseline Assessment - 2018",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1329"
+  },
+  {
+    "id": "1328",
+    "idno": "HDX_drc-displacement-data-kasai-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Kasai Province, Baseline Assessment - 2019",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1328"
+  },
+  {
+    "id": "1327",
+    "idno": "HDX_drc-displacement-data-kasai-oriental-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Kasai Oriental Province, Baseline Assessment - 2019",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1327"
+  },
+  {
+    "id": "1326",
+    "idno": "HDX_drc-displacement-data-kasai-central-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Kasai Central Province, Baseline Assessment - 2019",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1326"
+  },
+  {
+    "id": "1325",
+    "idno": "HDX_drc-displacement-data-ituri-province-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Ituri Province, Baseline Assessment - 2023",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1325"
+  },
+  {
+    "id": "1324",
+    "idno": "HDX_drc-displacement-data-countrywide-monitoring-baseline-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Countrywide Monitoring, Baseline Assessment - 2023",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1324"
+  },
+  {
+    "id": "1323",
+    "idno": "HDX_drc-site-assessment-data-iom-dtm_vEXT",
+    "title": "Displacement Data, Site Assessment - 2017 - 2019",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1323"
+  },
+  {
+    "id": "1322",
+    "idno": "HDX_dtm-task-force-on-population-movement-tfpm-yemen-16th-report-october-2017_vEXT",
+    "title": "Task Force on Population Movement, October 2017",
+    "nation": "Yemen",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1322"
+  },
+  {
+    "id": "1321",
+    "idno": "HDX_ecuador-displacement-idps-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data, Site Assessment - 2017",
+    "nation": "Ecuador",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1321"
+  },
+  {
+    "id": "1320",
+    "idno": "HDX_fiji-evacuation-tracking-monitoring-cycle-2_vEXT",
+    "title": "Evacuation Tracking and Monitoring Cycle 2, Site Assessment - 2016",
+    "nation": "Fiji",
+    "created": "May-28-2025",
+    "changed": "May-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1320"
+  },
+  {
+    "id": "1319",
+    "idno": "UNHCR_COL_2022_HFS_Q2_v2.1",
+    "title": "High Frequency Survey - Q2 2022",
+    "nation": "Colombia",
+    "created": "May-24-2025",
+    "changed": "May-24-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1319"
+  },
+  {
+    "id": "1316",
+    "idno": "UNHCR_BGD_MEG_2021_SENS",
+    "title": "Standardized Expanded Nutrition Survey (SENS), Kutupalong Mega Refugee Camp - 2021",
+    "nation": "Bangladesh",
+    "created": "May-23-2025",
+    "changed": "Jun-26-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1316"
+  },
+  {
+    "id": "1315",
+    "idno": "UNHCR_BGD_NAY_2021_SENS",
+    "title": "Standardized Expanded Nutrition Survey (SENS), Nayapara Refugee Camp - 2021",
+    "nation": "Bangladesh",
+    "created": "May-23-2025",
+    "changed": "Jul-03-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1315"
+  },
+  {
+    "id": "1314",
+    "idno": "UNHCR_BGD_KUT_2021_SENS",
+    "title": "Standardized Expanded Nutrition Survey (SENS), Kutupalong Refugee Camp  - 2021",
+    "nation": "Bangladesh",
+    "created": "May-22-2025",
+    "changed": "Jun-26-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1314"
+  },
+  {
+    "id": "1311",
+    "idno": "UNHCR_EU_2024_MixedMovements_SEE",
+    "title": "Mixed Movements in South-Eastern Europe \u2013 2024",
+    "nation": "Albania, Bosnia-Herzegovina, Bulgaria...and 5 more",
+    "created": "May-08-2025",
+    "changed": "Jul-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1311"
+  },
+  {
+    "id": "1308",
+    "idno": "UNHCR_SVN_MSNA_2024",
+    "title": "Multi-Sector Needs Assessment (MSNA)  - January 2024",
+    "nation": "Slovenia",
+    "created": "Apr-14-2025",
+    "changed": "Jun-26-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1308"
+  },
+  {
+    "id": "1306",
+    "idno": "UNHCR_CMR_HH_2025_P21v3.1",
+    "title": "Project 21 - Protection monitoring Household data - March 2025",
+    "nation": "Cameroon",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1306"
+  },
+  {
+    "id": "1305",
+    "idno": "UNHCR_CMR_KI_2025_P21v3.1",
+    "title": "Project 21 - Protection monitoring Key Informant data - March 2025",
+    "nation": "Cameroon",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1305"
+  },
+  {
+    "id": "1301",
+    "idno": "UNHCR_SHL_KI_2025_P21v3.1_BFA",
+    "title": "Project 21 - Protection monitoring Key Informant data - March 2025",
+    "nation": "Burkina Faso",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1301"
+  },
+  {
+    "id": "1300",
+    "idno": "UNHCR_SHL_KI_2025_P21v3.1_NER",
+    "title": "Project 21 - Protection monitoring Key Informant data - March 2025",
+    "nation": "Niger",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1300"
+  },
+  {
+    "id": "1299",
+    "idno": "UNHCR_SHL_KI_2025_P21v3.1_TCD",
+    "title": "Project 21 - Protection monitoring Key Informant data - March 2025",
+    "nation": "Chad",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1299"
+  },
+  {
+    "id": "1298",
+    "idno": "UNHCR_SHL_KI_2025_P21v3.1_MLI",
+    "title": "Project 21 - Protection monitoring Key Informant data - March 2025",
+    "nation": "Mali",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1298"
+  },
+  {
+    "id": "1297",
+    "idno": "UNHCR_SHL_2025_P21v3.1_BFA",
+    "title": "Project 21 - Protection monitoring household data - March 2025",
+    "nation": "Burkina Faso",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1297"
+  },
+  {
+    "id": "1296",
+    "idno": "UNHCR_SHL_2025_P21v3.1_NER",
+    "title": "Project 21 - Protection monitoring household data - March 2025",
+    "nation": "Niger",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1296"
+  },
+  {
+    "id": "1295",
+    "idno": "UNHCR_SHL_2025_P21v3.1_TCD",
+    "title": "Project 21 - Protection monitoring household data - March 2025",
+    "nation": "Chad",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1295"
+  },
+  {
+    "id": "1294",
+    "idno": "UNHCR_SHL_2025_P21v3.1_MLI",
+    "title": "Project 21 - Protection monitoring household data - March 2025",
+    "nation": "Mali",
+    "created": "Apr-09-2025",
+    "changed": "Aug-07-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1294"
+  },
+  {
+    "id": "1282",
+    "idno": "UNHCR_EU_2024_07_prot_monitoring",
+    "title": "Ukraine Situation Protection Profiling and Monitoring - July - October 2024",
+    "nation": "Belarus, Bulgaria, Czech Republic...and 8 more",
+    "created": "Apr-02-2025",
+    "changed": "Apr-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1282"
+  },
+  {
+    "id": "1281",
+    "idno": "UNHCR_EU_2023_10_prot_monitoring",
+    "title": "Ukraine Situation Protection Profiling and Monitoring - October 2023 - April 2024",
+    "nation": "Belarus, Bulgaria, Czech Republic...and 8 more",
+    "created": "Apr-02-2025",
+    "changed": "Apr-02-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1281"
+  },
+  {
+    "id": "1280",
+    "idno": "UNHCR_BGD_2024_CBI",
+    "title": "Post-Distribution Monitoring of Cash-Based Interventions - 2024",
+    "nation": "Bangladesh",
+    "created": "Apr-01-2025",
+    "changed": "Jul-09-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1280"
+  },
+  {
+    "id": "1279",
+    "idno": "UNHCR_BGD_2024_WASH",
+    "title": "WASH Knowledge, Attitudes, and Practices Survey - 2024",
+    "nation": "Bangladesh",
+    "created": "Apr-01-2025",
+    "changed": "Apr-01-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1279"
+  },
+  {
+    "id": "1278",
+    "idno": "UNHCR_EU_2024_ukr_intentions_round2_returnee",
+    "title": "Survey of intentions and perspectives of returnee #2 - August 2024",
+    "nation": "Ukraine",
+    "created": "Mar-27-2025",
+    "changed": "Jul-09-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1278"
+  },
+  {
+    "id": "1277",
+    "idno": "UNHCR_EU_2024_ukr_intentions_round1_returnee",
+    "title": "Survey of intentions and perspectives of returnee #1 - February 2024",
+    "nation": "Ukraine",
+    "created": "Mar-27-2025",
+    "changed": "Jul-09-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1277"
+  },
+  {
+    "id": "1276",
+    "idno": "UNHCR_EU_2024_ukr_intentions_round6_refugees",
+    "title": "Survey of intentions and perspectives of refugees #6 - August 2024",
+    "nation": "Ukraine",
+    "created": "Mar-27-2025",
+    "changed": "Mar-27-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1276"
+  },
+  {
+    "id": "1275",
+    "idno": "UNHCR_EU_2024_ukr_intentions_round5_refugees",
+    "title": "Survey of intentions and perspectives of refugees #5 - February 2024",
+    "nation": "Ukraine",
+    "created": "Mar-27-2025",
+    "changed": "Mar-27-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1275"
+  },
+  {
+    "id": "1274",
+    "idno": "UNHCR_EU_2024_ukr_intentions_round4_IDP",
+    "title": "Survey of intentions and perspectives of IDPs #4 - August 2024",
+    "nation": "Ukraine",
+    "created": "Mar-26-2025",
+    "changed": "Jul-09-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1274"
+  },
+  {
+    "id": "1273",
+    "idno": "UNHCR_EU_2024_ukr_intentions_round3_IDP",
+    "title": " Survey of intentions and perspectives of IDPs #3 - February 2024",
+    "nation": "Ukraine",
+    "created": "Mar-26-2025",
+    "changed": "Jul-09-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1273"
+  },
+  {
+    "id": "1272",
+    "idno": "UNHCR_AFG_2024_Q4_CBPM_anon_data_v2.1",
+    "title": "Community Based Protection Monitoring 2024 October - December",
+    "nation": "Afghanistan",
+    "created": "Mar-18-2025",
+    "changed": "Mar-18-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1272"
+  },
+  {
+    "id": "1271",
+    "idno": "UNHCR_AFG_2024_Q3_CBPM_anon_data_v2.1",
+    "title": "Community Based Protection Monitoring - 2024",
+    "nation": "Afghanistan",
+    "created": "Mar-18-2025",
+    "changed": "Aug-26-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1271"
+  },
+  {
+    "id": "1270",
+    "idno": "UNHCR_AFG_2024_Q3_RHAF_anon_data_v2.1",
+    "title": "Rapid Household Assessments - 2024",
+    "nation": "Afghanistan",
+    "created": "Mar-18-2025",
+    "changed": "Aug-26-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1270"
+  },
+  {
+    "id": "1268",
+    "idno": "UNHCR_COL_2024_HFS_Q3_v2.1",
+    "title": "High Frequency Survey - Q3 2024",
+    "nation": "Colombia",
+    "created": "Mar-15-2025",
+    "changed": "Mar-15-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1268"
+  },
+  {
+    "id": "1267",
+    "idno": "HDX_drc-displacement-deplace-site-assessment-ocha_vEXT",
+    "title": "Displacement Data - Site Assessment 2023",
+    "nation": "Congo (Democratic Republic of the)",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1267"
+  },
+  {
+    "id": "1266",
+    "idno": "HDX_eventos-y-afectados-por-violencia-armada-en-colombia-2012-2018-por-departamento-y-municipio_vEXT",
+    "title": "Events and people affected by armed violence, 2017- 2021",
+    "nation": "Colombia",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1266"
+  },
+  {
+    "id": "1265",
+    "idno": "HDX_desplazamientos-colombia_vEXT",
+    "title": "Displacement Data 2023",
+    "nation": "Colombia",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1265"
+  },
+  {
+    "id": "1264",
+    "idno": "HDX_hno-datos-complementarios-2_vEXT",
+    "title": "Confinements and displacements 2017 - 2022",
+    "nation": "Colombia",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1264"
+  },
+  {
+    "id": "1263",
+    "idno": "HDX_chad-site-village-assessment-lac-province-data-iom-dtm_vEXT",
+    "title": "Displacement Data - Site & Village Assessment - Lac Province 2023",
+    "nation": "Chad",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1263"
+  },
+  {
+    "id": "1262",
+    "idno": "HDX_chad-displacement-data-baseline-assessment-returns-region-moyen-chari-iom-dtm_vEXT",
+    "title": "Displacement Data - Baseline Assessment - Returns - Region Moyen Chari 2019",
+    "nation": "Chad",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1262"
+  },
+  {
+    "id": "1261",
+    "idno": "HDX_chad-displacement-data-baseline-assessment-returns-region-logone-oriental-iom-dtm_vEXT",
+    "title": "Displacement Data - Baseline Assessment - Returns - Region Logone Oriental 2019",
+    "nation": "Chad",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1261"
+  },
+  {
+    "id": "1260",
+    "idno": "HDX_car-baseline-assessment-data-iom-dtm_vEXT",
+    "title": "Displacement Data - Baseline Assessment 2023",
+    "nation": "Central African Republic",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1260"
+  },
+  {
+    "id": "1259",
+    "idno": "HDX_car-displacement-data-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data - Site Assessment 2021",
+    "nation": "Central African Republic",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1259"
+  },
+  {
+    "id": "1258",
+    "idno": "HDX_car-displacement-data-bangui-floods-oct19-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data - Bangui Floods Site Assessment 2019",
+    "nation": "Central African Republic",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1258"
+  },
+  {
+    "id": "1257",
+    "idno": "HDX_burundi-displacement-data-multi-sectoral-location-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data - Multi Sectoral Location Assessment 2023",
+    "nation": "Burundi",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1257"
+  },
+  {
+    "id": "1256",
+    "idno": "HDX_burundi-displacement-data-emergency-event-tracking-iom-dtm_vEXT",
+    "title": "Displacement Data - Emergency Event Tracking 2023",
+    "nation": "Burundi",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1256"
+  },
+  {
+    "id": "1255",
+    "idno": "HDX_burundi-baseline-assessment-data-iom-dtm_vEXT",
+    "title": "Displacement Baseline Assessment 2023",
+    "nation": "Burundi",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1255"
+  },
+  {
+    "id": "1254",
+    "idno": "HDX_burkina-faso-displacement-data-site-assessment-iom-dtm_vEXT",
+    "title": "Displacement Data - Site Assessment 2019",
+    "nation": "Burkina Faso",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1254"
+  },
+  {
+    "id": "1253",
+    "idno": "HDX_afghanistan-wash-dry-spell-assessment-june-2018_vEXT",
+    "title": "WASH Dry Spell Assessment June 2018",
+    "nation": "Afghanistan",
+    "created": "Mar-13-2025",
+    "changed": "Mar-13-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1253"
+  },
+  {
+    "id": "1252",
+    "idno": "UNHCR_PDE_2021_2023_v2.1",
+    "title": "Protracted Displacement Economies, 2021 - 2023",
+    "nation": "Congo, Dem. Rep., Ethiopia, Lebanon...and 2 more",
+    "created": "Mar-12-2025",
+    "changed": "Mar-17-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1252"
+  },
+  {
+    "id": "1251",
+    "idno": "UNHCR_AFG_2024_Q4_RHAF_anon_data_v2.1",
+    "title": "Rapid Household Assessments 2024 October - December",
+    "nation": "Afghanistan",
+    "created": "Mar-05-2025",
+    "changed": "Mar-14-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1251"
+  },
+  {
+    "id": "1250",
+    "idno": "UNHCR_LBN_2024_PM_Q2_v2.1",
+    "title": "Protection Monitoring - Q2 2024",
+    "nation": "Lebanon",
+    "created": "Mar-03-2025",
+    "changed": "Aug-05-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1250"
+  },
+  {
+    "id": "1249",
+    "idno": "UNHCR_LBN_2024_PM_Q1_v2.1",
+    "title": "Protection Monitoring - Q1 2024",
+    "nation": "Lebanon",
+    "created": "Mar-03-2025",
+    "changed": "Aug-05-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1249"
+  },
+  {
+    "id": "1248",
+    "idno": "UNHCR_LBN_2023_PM_Q4_v2.1",
+    "title": "Protection Monitoring - Q4 2023",
+    "nation": "Lebanon",
+    "created": "Feb-28-2025",
+    "changed": "Aug-05-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1248"
+  },
+  {
+    "id": "1247",
+    "idno": "UNHCR_LBN_2023_PM_Q3_v2.1",
+    "title": "Protection Monitoring - Q3 2023",
+    "nation": "Lebanon",
+    "created": "Feb-28-2025",
+    "changed": "Aug-05-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1247"
+  },
+  {
+    "id": "1246",
+    "idno": "UNHCR_LBN_2023_PM_Q2_v2.1",
+    "title": "Protection Monitoring - Q2 2023",
+    "nation": "Lebanon",
+    "created": "Feb-28-2025",
+    "changed": "Aug-05-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1246"
+  },
+  {
+    "id": "1245",
+    "idno": "UNHCR_SSD_2024_CBP",
+    "title": "Community-Based Assessment - 2024",
+    "nation": "South Sudan",
+    "created": "Feb-28-2025",
+    "changed": "Feb-28-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1245"
+  },
+  {
+    "id": "1243",
+    "idno": "UNHCR_BUL_2025_PDM",
+    "title": "Post-Distribution Monitoring of Cash-Based Interventions - 2025",
+    "nation": "Bulgaria",
+    "created": "Jan-31-2025",
+    "changed": "Mar-18-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1243"
+  },
+  {
+    "id": "1242",
+    "idno": "UNHCR_BUL_2024_PDM",
+    "title": "Post-Distribution Monitoring of Cash-Based Interventions - 2024",
+    "nation": "Bulgaria",
+    "created": "Jan-21-2025",
+    "changed": "Mar-18-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1242"
+  },
+  {
+    "id": "1241",
+    "idno": "UNHCR_BUL_2023_PDM",
+    "title": "Post-Distribution Monitoring of Cash-Based Interventions - 2023",
+    "nation": "Bulgaria",
+    "created": "Jan-20-2025",
+    "changed": "Mar-18-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1241"
+  },
+  {
+    "id": "1239",
+    "idno": "UNHCR_MEX_2024_PM_H1_v2.1",
+    "title": "Protection Monitoring 2024, H1",
+    "nation": "Mexico",
+    "created": "Jan-05-2025",
+    "changed": "Jan-05-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1239"
+  },
+  {
+    "id": "1238",
+    "idno": "UNHCR_MEX_2023_PM_H2_v2.1",
+    "title": "Protection Monitoring 2023, H2",
+    "nation": "Mexico",
+    "created": "Jan-05-2025",
+    "changed": "Jan-05-2025",
+    "url": "https://microdata.unhcr.org/index.php/catalog/1238"
+  }
+]
