@@ -17,6 +17,8 @@ jobs:
           python-version: '3.10'
       - name: Install uv
         uses: astral-sh/setup-uv@v1
+      - name: Refresh lockfile with runner's uv
+        run: uv lock
       - name: Install all necessary packages
         run: uv sync --locked
       - name: Run the scraping script for metadata
