@@ -1,36 +1,22 @@
-from utils import *
 import pandas as pd
-import requests
-import json
 import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
-WB_URL = "https://microdata.worldbank.org/index.php/metadata/export/"
-WB_INPUT_FILE = WB_DATA_PATH + "metadata.csv"
-WB_OUTPUT_FILE = WB_DATA_PATH + "datasets.csv"
-
-UNHCR_URL = "https://microdata.unhcr.org/index.php/metadata/export/{}/json"
-UNHCR_INPUT_FILE = UNHCR_DATA_PATH + "metadata.csv"
-UNHCR_OUTPUT_FILE = UNHCR_DATA_PATH + "datasets.csv"
+from sources import unhcr, worldbank
+from utils import UNHCR_DATA_PATH, WB_DATA_PATH
 
 MAX_WORKERS = 20
 
-def fetch_data(url, id):
-    """Fetch data from the given API for a specific ID."""
-    response = requests.get(url.format(id))
-    response.raise_for_status()  # Raises an error for bad responses
-    return response.json()
-
-def fetch_wb_data(id):
-    return fetch_data(WB_URL + "{}", id)
-
-def fetch_unhcr_data(id):
-    data = fetch_data(UNHCR_URL, id)
-    data["id"] = id
-    return data
-
 def process_meta(input_file, fetch_function):
-    # Read input CSV file
+    """
+    Process metadata by fetching detailed data for each ID in parallel.
+
+    Parameters:
+    - input_file (str): Path to the metadata CSV file.
+    - fetch_function (callable): Function to fetch data for a single ID.
+
+    Returns:
+    - pd.DataFrame: Normalized DataFrame with all fetched data.
+    """
     df = pd.read_csv(input_file)
     records = []
 
@@ -49,51 +35,47 @@ def process_meta(input_file, fetch_function):
 
 def process_datasets(df, output_file):
     """
-    Processes the dataset by normalizing nested JSON fields, renaming columns, 
+    Processes the dataset by normalizing nested JSON fields, renaming columns,
     and removing unnecessary columns.
-    
+
     Args:
     - df (DataFrame): Metadata DataFrame.
     - output_file (str): Path to save the processed CSV file.
-    
+
     Returns:
     None
     """
     try:
-
-        # Define patterns to be removed from column names
         patterns_to_remove = ["study_desc.", "doc_desc.", "study_info.", "method."]
         df.columns = df.columns.str.replace("|".join(patterns_to_remove), "", regex=True)
         df.columns = df.columns.str.replace("data_collection.", "method_")
 
-        # Drop columns with all NaN values and the 'schematype' column
         df.dropna(axis=1, how='all', inplace=True)
         if 'schematype' in df.columns:
             df.drop('schematype', axis=1, inplace=True)
 
-        # Save the processed dataset
         df.to_csv(output_file, index=False)
         print(f"Flattened dataset with shape {df.shape} saved to {output_file}")
 
     except Exception as e:
         print(f"Error processing dataframe: {e}")
 
-
-def main():
+def run():
+    """Orchestrate fetching detailed datasets from all sources."""
     try:
         print(f"Fetching datasets from the World Bank MDL")
-        rawdf = process_meta(WB_INPUT_FILE, fetch_wb_data)
-        process_datasets(rawdf, WB_OUTPUT_FILE)        
+        input_file = WB_DATA_PATH + "metadata.csv"
+        output_file = WB_DATA_PATH + "datasets.csv"
+        rawdf = process_meta(input_file, worldbank.fetch_dataset)
+        process_datasets(rawdf, output_file)
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred with World Bank: {e}")
+
     try:
         print(f"Fetching datasets from the UNHCR MDL")
-        rawdf = process_meta(UNHCR_INPUT_FILE, fetch_unhcr_data)
-        process_datasets(rawdf, UNHCR_OUTPUT_FILE)
+        input_file = UNHCR_DATA_PATH + "metadata.csv"
+        output_file = UNHCR_DATA_PATH + "datasets.csv"
+        rawdf = process_meta(input_file, unhcr.fetch_dataset)
+        process_datasets(rawdf, output_file)
     except Exception as e:
-        print(f"An error occurred: {e}")
-
-if __name__ == "__main__":
-    print("----")
-    main()
-    print("----")
+        print(f"An error occurred with UNHCR: {e}")
