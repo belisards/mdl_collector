@@ -14,6 +14,7 @@ def save_to_csv(df, output_file):
     - output_file (str): The file path to save the CSV to.
     """
     try:
+        df = df.sort_values('id')
         df.to_csv(output_file, index=False)
         logging.info(f"Data successfully saved to {output_file}")
     except IOError as e:
