@@ -161,7 +161,9 @@ def main(argv: list[str] | None = None) -> int:
     id_lookup = {v.lower(): k for k, v in country_id_map.items()}
 
     total_countries = records["country"].nunique()
+    # Each record corresponds to a country-url pair; URLs can repeat across countries.
     total_records = len(records)
+    total_unique_urls = records["url"].nunique()
 
     lines = []
     for continent, continent_group in records.groupby("continent"):
@@ -189,7 +191,8 @@ def main(argv: list[str] | None = None) -> int:
     args.output.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
 
     print(
-        f"Wrote {total_records} records across "
+        f"Wrote {total_records} country-url records "
+        f"({total_unique_urls} unique URLs) across "
         f"{total_countries} countries to {args.output}"
     )
     return 0
