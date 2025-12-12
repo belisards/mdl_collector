@@ -12,13 +12,15 @@ jobs:
       - name: Check out this repo
         uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      - name: Install uv
+        uses: astral-sh/setup-uv@v1
       - name: Install all necessary packages
-        run: pip install requests pandas tqdm
+        run: uv sync --locked
       - name: Run the scraping script for metadata
-        run: python src/main.py
+        run: uv run python src/main.py
       - name: Commit and push if anything has changed
         run: |-
           git config user.name "Automated"

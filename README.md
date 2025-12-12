@@ -6,6 +6,14 @@ It uses a Python script and Github Action to run weekly.
 
 Created by the [Joint Data Center on Forced Displacement](https://www.jointdatacenter.org/).
 
+# Development
+
+Dependencies are managed with [uv](https://docs.astral.sh/uv/).
+
+1. Install uv (for example `curl -LsSf https://astral.sh/uv/install.sh | sh`).
+2. Sync dependencies: `uv sync --locked`.
+3. Run the scraper: `uv run python src/main.py`.
+
 # Quick access
 
 Right-click and "Save link as" to download the files.
@@ -27,4 +35,3 @@ Each microdata library has its own subfolder. The records are saved in the follo
 `list.py`: Lists all datasets in the MDLs and creates a CSV file with the metadata
 
 `get.py`: Loop through all rows in `metadata.csv` to get data from the datasets and generate the `datasets.csv` file.
-
