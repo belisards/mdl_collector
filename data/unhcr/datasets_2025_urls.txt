@@ -1,0 +1,283 @@
+Africa
+  Angola (1) [id: 7]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=7&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1412
+  Burkina Faso (4) [id: 230]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=230&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1254
+    https://microdata.unhcr.org/index.php/catalog/1297
+    https://microdata.unhcr.org/index.php/catalog/1301
+    https://microdata.unhcr.org/index.php/catalog/1400
+  Burundi (3) [id: 33]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=33&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1255
+    https://microdata.unhcr.org/index.php/catalog/1256
+    https://microdata.unhcr.org/index.php/catalog/1257
+  Cameroon (3) [id: 36]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=36&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1305
+    https://microdata.unhcr.org/index.php/catalog/1306
+    https://microdata.unhcr.org/index.php/catalog/1402
+  Central African Republic (3) [id: 40]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=40&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1258
+    https://microdata.unhcr.org/index.php/catalog/1259
+    https://microdata.unhcr.org/index.php/catalog/1260
+  Chad (6) [id: 42]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=42&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1261
+    https://microdata.unhcr.org/index.php/catalog/1262
+    https://microdata.unhcr.org/index.php/catalog/1263
+    https://microdata.unhcr.org/index.php/catalog/1295
+    https://microdata.unhcr.org/index.php/catalog/1299
+    https://microdata.unhcr.org/index.php/catalog/1405
+  Congo (1) [id: 51]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=51&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1252
+  Congo (Democratic Republic of the) (13) [id: 52]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=52&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1267
+    https://microdata.unhcr.org/index.php/catalog/1323
+    https://microdata.unhcr.org/index.php/catalog/1324
+    https://microdata.unhcr.org/index.php/catalog/1325
+    https://microdata.unhcr.org/index.php/catalog/1326
+    https://microdata.unhcr.org/index.php/catalog/1327
+    https://microdata.unhcr.org/index.php/catalog/1328
+    https://microdata.unhcr.org/index.php/catalog/1329
+    https://microdata.unhcr.org/index.php/catalog/1330
+    https://microdata.unhcr.org/index.php/catalog/1331
+    https://microdata.unhcr.org/index.php/catalog/1332
+    https://microdata.unhcr.org/index.php/catalog/1333
+    https://microdata.unhcr.org/index.php/catalog/1395
+  Dem. Rep. (1) [id: 52]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=52&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1252
+  Djibouti (4) [id: 79]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=79&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1355
+    https://microdata.unhcr.org/index.php/catalog/1356
+    https://microdata.unhcr.org/index.php/catalog/1357
+    https://microdata.unhcr.org/index.php/catalog/1417
+  Ethiopia (5) [id: 66]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=66&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1252
+    https://microdata.unhcr.org/index.php/catalog/1336
+    https://microdata.unhcr.org/index.php/catalog/1337
+    https://microdata.unhcr.org/index.php/catalog/1340
+    https://microdata.unhcr.org/index.php/catalog/1350
+  Ghana (1) [id: 85]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=85&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1410
+  Kenya (1) [id: 114]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=114&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1386
+  Malawi (2) [id: 130]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=130&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1384
+    https://microdata.unhcr.org/index.php/catalog/1385
+  Mali (2) [id: 133]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=133&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1294
+    https://microdata.unhcr.org/index.php/catalog/1298
+  Mauritania (2) [id: 136]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=136&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1383
+    https://microdata.unhcr.org/index.php/catalog/1407
+  Mozambique (2) [id: 144]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=144&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1382
+    https://microdata.unhcr.org/index.php/catalog/1422
+  Namibia (1) [id: 146]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=146&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1409
+  Niger (3) [id: 156]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=156&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1296
+    https://microdata.unhcr.org/index.php/catalog/1300
+    https://microdata.unhcr.org/index.php/catalog/1418
+  Nigeria (1) [id: 157]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=157&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1415
+  Somalia (1) [id: 198]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=198&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1403
+  South Sudan (2) [id: 241]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=241&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1245
+    https://microdata.unhcr.org/index.php/catalog/1406
+  Uganda (2) [id: 222]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=222&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1352
+    https://microdata.unhcr.org/index.php/catalog/1353
+  Zambia (1) [id: 238]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=238&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1423
+  Zimbabwe (1) [id: 200]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=200&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1416
+
+Asia
+  Afghanistan (8) [id: 1]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=1&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1251
+    https://microdata.unhcr.org/index.php/catalog/1253
+    https://microdata.unhcr.org/index.php/catalog/1270
+    https://microdata.unhcr.org/index.php/catalog/1271
+    https://microdata.unhcr.org/index.php/catalog/1272
+    https://microdata.unhcr.org/index.php/catalog/1351
+    https://microdata.unhcr.org/index.php/catalog/1358
+    https://microdata.unhcr.org/index.php/catalog/1392
+  Bangladesh (7) [id: 15]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=15&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1279
+    https://microdata.unhcr.org/index.php/catalog/1280
+    https://microdata.unhcr.org/index.php/catalog/1314
+    https://microdata.unhcr.org/index.php/catalog/1315
+    https://microdata.unhcr.org/index.php/catalog/1316
+    https://microdata.unhcr.org/index.php/catalog/1341
+    https://microdata.unhcr.org/index.php/catalog/1354
+  Iraq (1) [id: 105]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=105&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1387
+  Jordan (3) [id: 113]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=113&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1345
+    https://microdata.unhcr.org/index.php/catalog/1346
+    https://microdata.unhcr.org/index.php/catalog/1411
+  Lebanon (8) [id: 120]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=120&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1246
+    https://microdata.unhcr.org/index.php/catalog/1247
+    https://microdata.unhcr.org/index.php/catalog/1248
+    https://microdata.unhcr.org/index.php/catalog/1249
+    https://microdata.unhcr.org/index.php/catalog/1250
+    https://microdata.unhcr.org/index.php/catalog/1252
+    https://microdata.unhcr.org/index.php/catalog/1343
+    https://microdata.unhcr.org/index.php/catalog/1396
+  Pakistan (1) [id: 166]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=166&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1421
+  Syrian Arab Republic (2) [id: 209]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=209&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1381
+    https://microdata.unhcr.org/index.php/catalog/1414
+  Yemen (1) [id: 236]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=236&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1322
+
+Europe
+  Albania (2) [id: 2]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=2&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1311
+    https://microdata.unhcr.org/index.php/catalog/1401
+  Austria (1) [id: 12]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=12&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1342
+  Belarus (2) [id: 34]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=34&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1281
+    https://microdata.unhcr.org/index.php/catalog/1282
+  Bosnia-Herzegovina (1) [id: 22]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=22&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1311
+  Bulgaria (6) [id: 31]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=31&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1241
+    https://microdata.unhcr.org/index.php/catalog/1242
+    https://microdata.unhcr.org/index.php/catalog/1243
+    https://microdata.unhcr.org/index.php/catalog/1281
+    https://microdata.unhcr.org/index.php/catalog/1282
+    https://microdata.unhcr.org/index.php/catalog/1311
+  Cyprus (1) [id: 57]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=57&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1342
+  Czech Republic (2) [id: 58]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=58&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1281
+    https://microdata.unhcr.org/index.php/catalog/1282
+  Germany (1) [id: 84]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=84&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1342
+  Greece (1) [id: 88]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=88&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1399
+  Italy (1) [id: 108]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=108&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1359
+  Moldova (the Republic of) (1) [id: 141]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=141&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1393
+  Slovenia (1) [id: 197]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=197&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1308
+  Ukraine (6) [id: 223]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=223&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1273
+    https://microdata.unhcr.org/index.php/catalog/1274
+    https://microdata.unhcr.org/index.php/catalog/1275
+    https://microdata.unhcr.org/index.php/catalog/1276
+    https://microdata.unhcr.org/index.php/catalog/1277
+    https://microdata.unhcr.org/index.php/catalog/1278
+
+North America
+  Costa Rica (2) [id: 54]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=54&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1347
+    https://microdata.unhcr.org/index.php/catalog/1348
+  Dominica (2) [id: 61]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=61&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1334
+    https://microdata.unhcr.org/index.php/catalog/1339
+  El Salvador (1) [id: 64]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=64&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1335
+  Guatemala (1) [id: 93]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=93&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1338
+  Haiti (1) [id: 96]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=96&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1390
+  Honduras (2) [id: 99]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=99&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1388
+    https://microdata.unhcr.org/index.php/catalog/1389
+  Mexico (5) [id: 138]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=138&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1238
+    https://microdata.unhcr.org/index.php/catalog/1239
+    https://microdata.unhcr.org/index.php/catalog/1347
+    https://microdata.unhcr.org/index.php/catalog/1348
+    https://microdata.unhcr.org/index.php/catalog/1349
+
+Oceania
+  Fiji (1) [id: 72]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=72&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1320
+
+South America
+  Argentina (1) [id: 10]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=10&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1408
+  Chile (3) [id: 43]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=43&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1347
+    https://microdata.unhcr.org/index.php/catalog/1348
+    https://microdata.unhcr.org/index.php/catalog/1404
+  Colombia (6) [id: 48]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=48&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1264
+    https://microdata.unhcr.org/index.php/catalog/1265
+    https://microdata.unhcr.org/index.php/catalog/1266
+    https://microdata.unhcr.org/index.php/catalog/1268
+    https://microdata.unhcr.org/index.php/catalog/1319
+    https://microdata.unhcr.org/index.php/catalog/1344
+  Ecuador (2) [id: 63]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=63&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1321
+    https://microdata.unhcr.org/index.php/catalog/1360
+  Paraguay (1) [id: 169]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=169&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1413
+  Peru (1) [id: 170]
+    search: https://microdata.unhcr.org/index.php/catalog/?page=1&country%5B%5D=170&sort_by=year&sort_order=desc&ps=15
+    https://microdata.unhcr.org/index.php/catalog/1391
