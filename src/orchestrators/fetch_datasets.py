@@ -43,6 +43,9 @@ def process_meta(input_file, output_file, fetch_function):
         for future in tqdm.tqdm(as_completed(futures), total=len(futures), disable=True):
             try:
                 data = future.result()
+                # Attach the ID from metadata to ensure downstream processing has a key.
+                if isinstance(data, dict) and "id" not in data:
+                    data["id"] = futures[future]
                 records.append(data)
             except Exception as e:
                 print(f"An error occurred for ID {futures[future]}: {e}")
@@ -54,7 +57,8 @@ def process_meta(input_file, output_file, fetch_function):
     else:
         combined_df = new_df
 
-    combined_df = combined_df.sort_values('id').reset_index(drop=True)
+    if "id" in combined_df.columns:
+        combined_df = combined_df.sort_values('id').reset_index(drop=True)
 
     return combined_df
 
@@ -70,6 +74,14 @@ def process_datasets(df, output_file):
     Returns:
     None
     """
+    if df is None or df.empty:
+        print(f"No datasets to flatten for {output_file}")
+        return
+
+    if "id" not in df.columns:
+        print(f"Dataset DataFrame missing 'id' column; skipping save for {output_file}")
+        return
+
     try:
         patterns_to_remove = ["study_desc.", "doc_desc.", "study_info.", "method."]
         df.columns = df.columns.str.replace("|".join(patterns_to_remove), "", regex=True)
