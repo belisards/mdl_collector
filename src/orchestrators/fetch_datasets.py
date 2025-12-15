@@ -4,10 +4,11 @@ import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from sources import unhcr, worldbank
 from utils import UNHCR_DATA_PATH, WB_DATA_PATH
+from schemas.column_mappings import apply_prefix_mapping, enforce_schema, get_schema_for_source
 
 MAX_WORKERS = 20
 
-def process_meta(input_file, output_file, fetch_function):
+def process_meta(input_file, output_file, fetch_function, source_name):
     """
     Process metadata by fetching detailed data for each ID in parallel.
     Only fetches NEW IDs not present in existing datasets.csv.
@@ -16,6 +17,7 @@ def process_meta(input_file, output_file, fetch_function):
     - input_file (str): Path to the metadata CSV file.
     - output_file (str): Path to the output datasets CSV file.
     - fetch_function (callable): Function to fetch data for a single ID.
+    - source_name (str): 'worldbank' or 'unhcr'
 
     Returns:
     - pd.DataFrame: Normalized DataFrame with all fetched data.
@@ -52,7 +54,12 @@ def process_meta(input_file, output_file, fetch_function):
 
     new_df = pd.json_normalize(records)
 
+    schema = get_schema_for_source(source_name)
+    new_df = apply_prefix_mapping(new_df)
+    new_df = enforce_schema(new_df, schema)
+
     if existing_df is not None:
+        existing_df = enforce_schema(existing_df, schema)
         combined_df = pd.concat([existing_df, new_df], ignore_index=True)
     else:
         combined_df = new_df
@@ -64,18 +71,20 @@ def process_meta(input_file, output_file, fetch_function):
 
 def process_datasets(df, output_file):
     """
-    Processes the dataset by normalizing nested JSON fields, renaming columns,
-    and removing unnecessary columns.
+    Saves the processed dataset to CSV.
+
+    Schema enforcement and column mapping are now handled in process_meta(),
+    so this function just saves the data.
 
     Args:
-    - df (DataFrame): Metadata DataFrame.
+    - df (DataFrame): Metadata DataFrame (already schema-enforced).
     - output_file (str): Path to save the processed CSV file.
 
     Returns:
     None
     """
     if df is None or df.empty:
-        print(f"No datasets to flatten for {output_file}")
+        print(f"No datasets to save for {output_file}")
         return
 
     if "id" not in df.columns:
@@ -83,20 +92,12 @@ def process_datasets(df, output_file):
         return
 
     try:
-        patterns_to_remove = ["study_desc.", "doc_desc.", "study_info.", "method."]
-        df.columns = df.columns.str.replace("|".join(patterns_to_remove), "", regex=True)
-        df.columns = df.columns.str.replace("data_collection.", "method_")
-
-        df.dropna(axis=1, how='all', inplace=True)
-        if 'schematype' in df.columns:
-            df.drop('schematype', axis=1, inplace=True)
-
         df = df.sort_values('id')
         df.to_csv(output_file, index=False)
-        print(f"Flattened dataset with shape {df.shape} saved to {output_file}")
+        print(f"Dataset with shape {df.shape} saved to {output_file}")
 
     except Exception as e:
-        print(f"Error processing dataframe: {e}")
+        print(f"Error saving dataframe: {e}")
 
 def run():
     """Orchestrate fetching detailed datasets from all sources."""
@@ -104,7 +105,7 @@ def run():
         print(f"Fetching datasets from the World Bank MDL")
         input_file = WB_DATA_PATH + "metadata.csv"
         output_file = WB_DATA_PATH + "datasets.csv"
-        rawdf = process_meta(input_file, output_file, worldbank.fetch_dataset)
+        rawdf = process_meta(input_file, output_file, worldbank.fetch_dataset, 'worldbank')
         process_datasets(rawdf, output_file)
     except Exception as e:
         print(f"An error occurred with World Bank: {e}")
@@ -113,7 +114,7 @@ def run():
         print(f"Fetching datasets from the UNHCR MDL")
         input_file = UNHCR_DATA_PATH + "metadata.csv"
         output_file = UNHCR_DATA_PATH + "datasets.csv"
-        rawdf = process_meta(input_file, output_file, unhcr.fetch_dataset)
+        rawdf = process_meta(input_file, output_file, unhcr.fetch_dataset, 'unhcr')
         process_datasets(rawdf, output_file)
     except Exception as e:
         print(f"An error occurred with UNHCR: {e}")
