@@ -1,26 +1,30 @@
 # UNHCR & World Bank microdata library collector
 
-This repository automates data collection from the [UNHCR](https://microdata.unhcr.org/) and the [World Bank](https://microdata.worldbank.org) microdata libraries.
+This repository automates data collection and archives records from the [UNHCR](https://microdata.unhcr.org/) and the [World Bank](https://microdata.worldbank.org) microdata libraries.
 
-It uses a Python script and Github Action to run weekly. 
+It uses a Python script and GitHub Action to run weekly. 
 
-Created by the [Joint Data Center on Forced Displacement](https://www.jointdatacenter.org/).
+The project has been created to facilitate the [World Bank-UNHCR Joint Data Center on Forced Displacement](https://www.jointdatacenter.org/)'s initiatives.
 
 # Development
 
 Dependencies are managed with [uv](https://docs.astral.sh/uv/).
 
-1. Install uv (for example `curl -LsSf https://astral.sh/uv/install.sh | sh`).
+1. Install uv (for example, `curl -LsSf https://astral.sh/uv/install.sh | sh`).
 2. Sync dependencies: `uv sync --locked`.
 3. Run the scraper: `uv run python src/main.py`.
 
 # Quick access
 
-Right-click and "Save link as" to download the files.
+Both microdata libraries can be fully exported as CSV files using the following endpoints: [https://microdata.unhcr.org/index.php/catalog/export/csv](https://microdata.unhcr.org/index.php/catalog/export/csv) and [https://microdata.worldbank.org/index.php/catalog/export/csv](https://microdata.worldbank.org/index.php/catalog/export/csv)
+
+The archived files are available below. Right-click and "Save link as" to download the files.
 
 - [UNHCR microdata library](data/unhcr/datasets.csv)
   
 - [WorldBank microdata library](data/world_bank/datasets.csv)
+
+Be aware that the archived files might be outdated.
 
 # Data 
 
