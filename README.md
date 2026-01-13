@@ -16,9 +16,9 @@ Dependencies are managed with [uv](https://docs.astral.sh/uv/).
 
 # Quick access
 
-Both microdata libraries can be fully exported as CSV files using the following endpoints: [https://microdata.unhcr.org/index.php/catalog/export/csv](https://microdata.unhcr.org/index.php/catalog/export/csv) and [https://microdata.worldbank.org/index.php/catalog/export/csv](https://microdata.worldbank.org/index.php/catalog/export/csv)
+Basic information from both microdata libraries can be fully exported as CSV files using the following endpoints: [https://microdata.unhcr.org/index.php/catalog/export/csv](https://microdata.unhcr.org/index.php/catalog/export/csv) and [https://microdata.worldbank.org/index.php/catalog/export/csv](https://microdata.worldbank.org/index.php/catalog/export/csv)
 
-The archived files are available below. Right-click and "Save link as" to download the files.
+The archived files, including all metadata, are available below. Right-click and "Save link as" to download the files.
 
 - [UNHCR microdata library](data/unhcr/datasets.csv)
   
