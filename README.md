@@ -1,20 +1,18 @@
 # UNHCR & World Bank microdata library collector
 
-This repository automates data collection and archives records from the [UNHCR](https://microdata.unhcr.org/) and the [World Bank](https://microdata.worldbank.org) microdata libraries.
+This repository automates data collection and archives records from the [UNHCR](https://microdata.unhcr.org/) and the [World Bank](https://microdata.worldbank.org) microdata libraries. Both are built on the [NADA (National Data Archive)](https://github.com/ihsn/nada) system.
 
-It uses a Python script and GitHub Action to run weekly. 
+# Key Features
 
-The project has been created to facilitate the [World Bank-UNHCR Joint Data Center on Forced Displacement](https://www.jointdatacenter.org/)'s initiatives.
+**Automated Collection** - GitHub Actions workflow runs periodically to mirror data from both UNHCR and World Bank microdata libraries in a unified workflow.
 
-# Development
+**Git-Based Versioning** - Every update is committed, providing full historical tracking of all metadata changes over time.
 
-Dependencies are managed with [uv](https://docs.astral.sh/uv/).
+**Fixed Schema Management** - Prevents schema drift by enforcing predefined columns.
 
-1. Install uv (for example, `curl -LsSf https://astral.sh/uv/install.sh | sh`).
-2. Sync dependencies: `uv sync --locked`.
-3. Run the scraper: `uv run python src/main.py`.
+# Quick Start
 
-# Quick access
+## Get the Data
 
 Basic information from both microdata libraries can be fully exported as CSV files using the following endpoints: [https://microdata.unhcr.org/index.php/catalog/export/csv](https://microdata.unhcr.org/index.php/catalog/export/csv) and [https://microdata.worldbank.org/index.php/catalog/export/csv](https://microdata.worldbank.org/index.php/catalog/export/csv)
 
@@ -24,7 +22,15 @@ The archived files, including all metadata, are available below. Right-click and
   
 - [WorldBank microdata library](data/world_bank/datasets.csv)
 
-Be aware that the archived files might be outdated.
+Be aware that archived files might be outdated.
+
+## Run the Code
+
+Dependencies are managed with [uv](https://docs.astral.sh/uv/).
+
+1. Install uv (for example, `curl -LsSf https://astral.sh/uv/install.sh | sh`).
+2. Sync dependencies: `uv sync --locked`.
+3. Run the scraper: `uv run python src/main.py`.
 
 # Data 
 
@@ -34,13 +40,7 @@ Each microdata library has its own subfolder. The records are saved in the follo
 
 - `datasets.csv`: all information about the datasets in both microdata libraries
 
-# Schema Management
-
-## Column Naming Convention
-
-To prevent schema drift and maintain data integrity, this project uses **fixed schemas** with smart prefix mapping:
-
-### Prefix Mappings
+## Schema Management
 
 API responses contain nested JSON that gets flattened. To avoid column name collisions, we use these prefix conventions:
 
@@ -50,35 +50,7 @@ API responses contain nested JSON that gets flattened. To avoid column name coll
 - `method.*` → `method.*` (methodology fields)
 - `data_collection.*` → `method.*` (data collection details)
 
-### Examples
-
-- `study.version_statement.version` - Study description version
-- `doc.version_statement.version` - Documentation version
-- `info.notes` - General study notes
-- `method.notes` - Methodology notes
-- `method.sampling_procedure` - Sampling methodology
-
-This ensures that fields from different sources remain distinct and queryable.
-
-## Schema Enforcement
-
-The project enforces fixed schemas for both data sources to ensure:
-
-1. **No schema drift** - Column set remains stable across updates
-2. **True incremental updates** - Only new rows added, no full rewrites
-3. **Predictable queries** - Column names never change unexpectedly
-4. **Clean git diffs** - Only new data appears in commits, not entire files
-
-Schema definitions are in `src/schemas/column_mappings.py`.
-
-## Migration History
-
-**December 2025**: Performed one-time migration to consolidate duplicate columns (`.1`, `.2` suffixes) into properly prefixed columns. Original files backed up as `*.backup`.
-
-- World Bank: 111 → 110 columns (6,709 rows preserved)
-- UNHCR: 96 → 70 columns (1,027 rows preserved)
-
-## Adding New Fields to Schema
+To prevent schema drift and maintain data integrity, this project uses fixed schemas. Definitions are in `src/schemas/column_mappings.py`.
 
 If the API introduces new fields that should be tracked:
 
@@ -88,42 +60,12 @@ If the API introduces new fields that should be tracked:
 
 Fields not in the schema are automatically dropped during collection.
 
-# Code
+# Changelog
 
-Project structure:
+**January 2026**: code refactoring, added incremental updates and fixed schema.
 
-```
-src/
-├── orchestrators/       # Data collection workflows
-│   ├── fetch_datasets.py  # Main dataset fetching logic
-│   └── list_metadata.py   # Metadata list collection
-├── sources/            # API clients
-│   ├── unhcr.py          # UNHCR API interface
-│   └── worldbank.py      # World Bank API interface
-├── schemas/            # Schema management
-│   └── column_mappings.py # Fixed schemas and enforcement
-├── migrations/         # One-time data migrations
-│   └── consolidate_duplicates.py
-└── main.py            # Entry point
+**July 2024**: web scraping implementation.
 
-scripts/
-└── discover_schema.py  # Schema discovery helper
+# Credits
 
-tests/
-└── test_schema_enforcement.py  # Schema validation tests
-```
-
-## Testing
-
-Run schema enforcement tests:
-
-```bash
-uv run python tests/test_schema_enforcement.py
-```
-
-## Development Notes
-
-- Uses [uv](https://docs.astral.sh/uv/) for dependency management
-- GitHub Actions runs daily at midnight UTC
-- Incremental updates: only fetches new datasets not already in CSV
-- Schema enforcement prevents column proliferation
+Implement by the [World Bank-UNHCR Joint Data Center on Forced Displacement](https://www.jointdatacenter.org/).
